@@ -4,7 +4,7 @@ import LobeWenxinAI from '@/libs/agent-runtime/wenxin';
 
 import { POST as UniverseRoute } from '../[provider]/route';
 
-export const runtime = 'nodejs';
+export const runtime = 'edge';
 
 export const maxDuration = 30;
 
